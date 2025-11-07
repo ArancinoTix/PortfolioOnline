@@ -1,2 +1,0 @@
-Area Slider is a UI script a "slider" that users an area defined by a Polygon Collider.
-For example you could make a triangle slider slide, where each corner of the triangle represents a different value, for example a color spectrum.
