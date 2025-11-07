@@ -1,0 +1,22 @@
+{
+    "name": "U9.Permissions",
+    "rootNamespace": "U9.Permissions",
+    "references": [
+        "GUID:6e5063adab271564ba0098a06a8cebda",
+        "GUID:3caf90d9f0ecf444e865b5fbaa0930af",
+        "GUID:56c62e0f6e9d60d4eaa9cc6a1707d179",
+        "GUID:68b4aa6ce27e26c419e40f7fc3cdf2d8",
+        "GUID:1edea1618d37f204d961ea24c8dc34db",
+        "GUID:ac4806c44c9f7cb409a66fa2c0e5d278",
+        "GUID:d525ad6bd40672747bde77962f1c401e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

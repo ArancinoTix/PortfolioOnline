@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6758591c268f634d97dec128c925d3f, type: 3}
+  m_Name: ProfanityFilterFR
+  m_EditorClassIdentifier: 
+  m_pattern: "avortement|anal|anus|cul|enculer|culs|connard|connards|sac de billes|des
+    balles|bellend|bestial|bestialit\xE9|chienne|chiennes|salope|sanglant|pipe|bollok|boob|seins|les
+    seins|buceta|clochard|bout|tapis muncher|fente|cipa|clitoris|coq|suceuse|coqs|n\xE8gre|merde|sperme|\xE9jaculation|cunillingus|chatte|zut|queue|godemich\xE9|godes|tremper|baiseur
+    de chien|duch\xE9|digue|\xE9jaculer|\xE9jacul\xE9|\xE9jacule|\xE9jaculant|p\xE9d\xE9|fagging|fagot|fagots|penchant|fellation|bride|bais\xE9e|enfoir\xE9|baiseurs|putain
+    de|fuckings|baise|emballeur de fudge|damn\xE9|putain|enfer|hore|corn\xE9|se branler|kock|les
+    l\xE8vres|luxure|convoitise|masochiste|masturber|m\xE8re encul\xE9e|nazi|n\xE8gres|orgasim|orgasme|orgasmes|qu\xE9quette|p\xE9nis|pisse|bourr\xE9|pisser|faire
+    chier|caca|porno|pornographie|piquer|piq\xFBres|pube|chattes|r\xE2p\xE9|violeur|rectum|retard|rimming|sadique|scrotum|sexe|baiser|transexuelle|chier|chi\xE9|merdique|skank|salopes|smegma|cochonneries|arracher|fils
+    de pute|espacer|cran|testicule|m\xE9sange|titt|vagin|viagra|vulve|wang|branler|x
+    \xE9valu\xE9|xxx"
+  m_whiteList: 

@@ -1,0 +1,22 @@
+{
+    "name": "U9.View",
+    "rootNamespace": "U9.View",
+    "references": [
+        "GUID:1edea1618d37f204d961ea24c8dc34db",
+        "GUID:47cd7d77dfc7845469ee5dd695d54239",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:d69d0c454172a5342973c86759db6eaa",
+        "GUID:ac4806c44c9f7cb409a66fa2c0e5d278",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:ddabe75d89f789245ad74793a1863725"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

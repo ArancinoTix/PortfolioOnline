@@ -1,0 +1,18 @@
+{
+    "name": "U9.CountryDetails.Editor",
+    "rootNamespace": "U9.CountryDetails.Editor",
+    "references": [
+        "GUID:0283b559082917749be9f73f97f782a4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

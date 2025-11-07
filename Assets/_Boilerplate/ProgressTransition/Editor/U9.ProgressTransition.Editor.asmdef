@@ -1,0 +1,19 @@
+{
+    "name": "U9.ProgressTransition.Editor",
+    "rootNamespace": "U9.ProgressTransition.Editor",
+    "references": [
+        "GUID:47cd7d77dfc7845469ee5dd695d54239",
+        "GUID:6a7180e3e0debbb4db1ffd945f0bdf9a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

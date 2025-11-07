@@ -1,0 +1,19 @@
+{
+    "name": "U9.Audio.UnityAudio",
+    "rootNamespace": "U9.Audio.UnityAudio",
+    "references": [
+        "GUID:09520a737e584e24aa83a0bfd4a6a3dc",
+        "GUID:591a27cf763405644a080f8ea8b7b15b",
+        "GUID:508ab9a1e278c7a4fab13f1145cacf9b",
+        "GUID:1edea1618d37f204d961ea24c8dc34db"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

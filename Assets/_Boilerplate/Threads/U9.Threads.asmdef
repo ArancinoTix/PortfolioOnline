@@ -1,0 +1,16 @@
+{
+    "name": "U9.Threads",
+    "rootNamespace": "U9.Threads",
+    "references": [
+        "GUID:1edea1618d37f204d961ea24c8dc34db"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

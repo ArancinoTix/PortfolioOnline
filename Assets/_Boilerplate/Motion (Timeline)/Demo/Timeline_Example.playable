@@ -1,0 +1,3670 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8536710614413636640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93c3dbdc6fd83924d93e2f5363d8ac39, type: 3}
+  m_Name: Image Fill Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 8572277687181469708}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -8536710614413636640}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Image (Fill)
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-6537084149485767289
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af481489a007f841a4d51afe0c70622, type: 3}
+  m_Name: Scale Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 3550814314724332548}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -6537084149485767289}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Scale
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-6523106301994637614
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab203771bc560da40850ccbf8d13b440, type: 3}
+  m_Name: ColorClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    startAt: {r: 1, g: 1, b: 1, a: 0}
+    endAt: {r: 1, g: 1, b: 1, a: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &-6034989131167207647
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fc6f5187a81dc47999eefade6f0935, type: 3}
+  m_Name: Material
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children:
+  - {fileID: 922696572001213450}
+  - {fileID: -2538434052741270010}
+  - {fileID: 8785956871263113053}
+  - {fileID: 6436724504972835589}
+  m_Clips: []
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-5724985557602883736
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31932e5cbd0b40f44b524b578ad045e5, type: 3}
+  m_Name: Scale Rect Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -1959469516094142339}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -5724985557602883736}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Scale (Rect)
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-5381396002918417074
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a22280032bcdb4689e0936ec301748, type: 3}
+  m_Name: SpriteClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    sprites:
+    - {fileID: 21300000, guid: 17c959511015fe849a2a9ddd6c1749bd, type: 3}
+    - {fileID: 21300000, guid: 61ce89b72d152b5409cfccde1eb4527e, type: 3}
+    - {fileID: 21300000, guid: bc0e82c9345c520418e3fb193e5fd205, type: 3}
+    - {fileID: 21300000, guid: 9d8e21a233dc7ad4f973ca73c1091ad4, type: 3}
+    - {fileID: 21300000, guid: 022e6a2047f5caf489e150615e02dc9b, type: 3}
+    - {fileID: 21300000, guid: 5abc0606ad1c8f24d8ffd60a53fc30ae, type: 3}
+    - {fileID: 21300000, guid: 7579d5a4afa08bf43aa84492e55d042c, type: 3}
+    - {fileID: 21300000, guid: d45477b6fc5ff3f45b93b8fc96773936, type: 3}
+    - {fileID: 21300000, guid: 413049867d279604998a309267650ca0, type: 3}
+    - {fileID: 21300000, guid: 06455112654aa124dbada482bf2026d7, type: 3}
+    - {fileID: 21300000, guid: d331d95abf8b5584fa8c0d6c8ad689a0, type: 3}
+    - {fileID: 21300000, guid: 612a496b9e404ac41913077301b88579, type: 3}
+    - {fileID: 21300000, guid: 734b5953dc45e2444a868b49fc90c1ec, type: 3}
+    - {fileID: 21300000, guid: 2d55bf82bdeab364187c4ea873660cbb, type: 3}
+    - {fileID: 21300000, guid: b07719866c273f94da1b45f14f789f73, type: 3}
+    - {fileID: 21300000, guid: f7f69925c8f50ab418d855c3daa7bb2a, type: 3}
+    - {fileID: 21300000, guid: dd69b12fd4019d940b536c7f4723dc7f, type: 3}
+    - {fileID: 21300000, guid: 6e9603e2238609c41b4d5a6d5c600ecd, type: 3}
+    - {fileID: 21300000, guid: 2369059c54b931a40b23f988170d8e67, type: 3}
+    - {fileID: 21300000, guid: 67e74042ed5a5004c9be616949d5a4ad, type: 3}
+    - {fileID: 21300000, guid: e692942444ebeab468720c5ecd0b28ad, type: 3}
+    - {fileID: 21300000, guid: eb4d2d96afac83d47a7d97580556e795, type: 3}
+    - {fileID: 21300000, guid: 57d0f9339e5150e42abf6738efff9688, type: 3}
+    - {fileID: 21300000, guid: 16397af9986742049ac4de2ef5e01f4c, type: 3}
+    - {fileID: 21300000, guid: 9a92440a1dfce2b48982268dc727f0be, type: 3}
+    - {fileID: 21300000, guid: 5d5e598c7de0b5241ab5e0b5ef6693e5, type: 3}
+    - {fileID: 21300000, guid: ae9ddc0f23dba01449b19c2b9e1f9e0e, type: 3}
+    - {fileID: 21300000, guid: dab74b6d106002549b6e10dc416b1eb7, type: 3}
+    - {fileID: 21300000, guid: c4337c1fc0664454dae5918a6d550e56, type: 3}
+    - {fileID: 21300000, guid: b64bed6e2cada1e4fad029955ebf08eb, type: 3}
+    - {fileID: 21300000, guid: 28132766d7de4174791a6ade1ec52da9, type: 3}
+    - {fileID: 21300000, guid: 6cbe245e21f71ce4b91b4a9c1a94402a, type: 3}
+    - {fileID: 21300000, guid: 8eee82882a82d4445a773b98a0fb6075, type: 3}
+    - {fileID: 21300000, guid: e82156f11f402914b815ec4255502621, type: 3}
+    - {fileID: 21300000, guid: b3443cc179ad55145b8a449ede894921, type: 3}
+    - {fileID: 21300000, guid: ef9ef67f39b7a024b9ca6a9c49409d64, type: 3}
+    - {fileID: 21300000, guid: edf3e791774a57540b80aa920e37449e, type: 3}
+    - {fileID: 21300000, guid: 0855a9413ed941249a123144bc309b88, type: 3}
+    - {fileID: 21300000, guid: f0ce5f33c40943a4ca8456e2dc0d2efe, type: 3}
+    - {fileID: 21300000, guid: 022c081deccb5944b81708e334e40770, type: 3}
+    - {fileID: 21300000, guid: 2c8ee96e19c14c5408a76fa1d6f5c9b1, type: 3}
+    - {fileID: 21300000, guid: f759e5cfe3d2994408b75fea497fff27, type: 3}
+    - {fileID: 21300000, guid: 9fbac0c5490708a4eb112d31fda1de34, type: 3}
+    - {fileID: 21300000, guid: 5876fb26b584ae941ad0b2c21e399843, type: 3}
+    - {fileID: 21300000, guid: 46af523bf00f063439e53128814421db, type: 3}
+    - {fileID: 21300000, guid: 7d9b0a1441f72204d9a2c3cb9a8ba860, type: 3}
+    - {fileID: 21300000, guid: ba9ef01f4bb5cd9409b39ffb913e18ee, type: 3}
+    - {fileID: 21300000, guid: feea56344b1680848b3208544d605c1d, type: 3}
+    - {fileID: 21300000, guid: 6f58d86a3987d2d499b65544a3e4e9fb, type: 3}
+    - {fileID: 21300000, guid: 5ed66e5fcc05369459779d5c9501ced1, type: 3}
+    - {fileID: 21300000, guid: eb71cb29100748149a4f8da0f6178036, type: 3}
+    - {fileID: 21300000, guid: a0d737317bc405941b92eac628086e10, type: 3}
+    - {fileID: 21300000, guid: 83a812a2ae91591429d08fa8a3cbda08, type: 3}
+    - {fileID: 21300000, guid: 77d48d5fe72d20c4190b08e13dbad125, type: 3}
+    - {fileID: 21300000, guid: d2aceaea1e1dd2046b19eacb8ea2b557, type: 3}
+    - {fileID: 21300000, guid: b70025fdac218644c9e2b9fed3d7783d, type: 3}
+    - {fileID: 21300000, guid: 3af369bc3fc051e429c898e6b26645d3, type: 3}
+    - {fileID: 21300000, guid: 2dd1d938ba5051d44ac006839cf8837f, type: 3}
+    - {fileID: 21300000, guid: 97ee89f08debecc4bbd345b7da4cdd84, type: 3}
+    - {fileID: 21300000, guid: 141f23fd47811d84e8e39b32c111896e, type: 3}
+    - {fileID: 21300000, guid: 0193ec6e68ca292408815b82c4b4acd1, type: 3}
+    - {fileID: 21300000, guid: 29173a7678c74f441a3b5403d9ea598a, type: 3}
+    - {fileID: 21300000, guid: 31b82a0f6f9535247bc4b251230b50ec, type: 3}
+    - {fileID: 21300000, guid: a3896a691c8217a4287907c146a37caa, type: 3}
+    - {fileID: 21300000, guid: fdaa5f30de6db7447aa2afff5b7e283a, type: 3}
+    - {fileID: 21300000, guid: 0a077ec3964227348b0e30ab76b1d08e, type: 3}
+    - {fileID: 21300000, guid: d65f0e2449cd78d4590ac19fe1a29b8e, type: 3}
+    - {fileID: 21300000, guid: 35720445c08e4c6488f5db794ba40e5d, type: 3}
+    - {fileID: 21300000, guid: 0856aff01634ef14a9ea31fa83fcefd2, type: 3}
+    - {fileID: 21300000, guid: de1d2a0ca3e3059468898ea6e8abcf6b, type: 3}
+    - {fileID: 21300000, guid: b0cbf3141218c494abde6b8f16d49de2, type: 3}
+    - {fileID: 21300000, guid: 055faa92788f6014ebc224f2eddfffa7, type: 3}
+    - {fileID: 21300000, guid: 48a7b949f4cfbfe47a03b5e9321ad733, type: 3}
+    - {fileID: 21300000, guid: 88cb4401c373cb543a99c1bfb1c525ba, type: 3}
+    - {fileID: 21300000, guid: bff5288fde9193847adad6311114031f, type: 3}
+    - {fileID: 21300000, guid: 321ada8bdd7840445b774ef0ab6a2efc, type: 3}
+    - {fileID: 21300000, guid: dbe114782c5a0d54980995de6ffccb54, type: 3}
+    - {fileID: 21300000, guid: 2d6bf2b696a8ff74dbf86c29ce9427f6, type: 3}
+    - {fileID: 21300000, guid: 26fe42ee375f11443b919fb63cc6ec34, type: 3}
+    - {fileID: 21300000, guid: cc583dac99d16564c8994f64a2249618, type: 3}
+    - {fileID: 21300000, guid: 4adff00990338e344bfe419e7265245d, type: 3}
+    - {fileID: 21300000, guid: ce4834b600875054e8cfd5ece9e92e5e, type: 3}
+    - {fileID: 21300000, guid: 54fcb706e397c1d479f9a573aba73a25, type: 3}
+    clipExtrapolation: 1
+--- !u!114 &-4523098010478966285
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fc6f5187a81dc47999eefade6f0935, type: 3}
+  m_Name: Bespoke
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children:
+  - {fileID: 2645366866472462724}
+  - {fileID: 3885408301915771522}
+  - {fileID: -8536710614413636640}
+  - {fileID: 6660988838264399813}
+  - {fileID: 1863570308238658158}
+  - {fileID: 8811474035784178459}
+  - {fileID: -872372174444646685}
+  - {fileID: -6537084149485767289}
+  - {fileID: -5724985557602883736}
+  m_Clips: []
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-3952750828510822642
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3854a40b77d27de44a422117a990604a, type: 3}
+  m_Name: FloatClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    startAt: 0
+    endAt: 5
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &-3737762689852102001
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36841ef2e54f62743950381416ce3510, type: 3}
+  m_Name: Vector3Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 1
+    useRelative: 1
+    startAt: {x: 0, y: 0, z: 0}
+    endAt: {x: 0, y: 50, z: 0}
+    clipExtrapolation: 1
+    xEnabled: 0
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 1
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 0
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &-2735055969249374320
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 450b90c7e3ae3c8429f497840ae76903, type: 3}
+  m_Name: Sprite Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 753107185783196737}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 5105682376933033067}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -2735055969249374320}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Sprite Clip
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: SpriteProperty
+--- !u!114 &-2696337261931579548
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3976e21c2a740ce49ba57b56c99066a8, type: 3}
+  m_Name: Int Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 753107185783196737}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 1973900063895334117}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -2696337261931579548}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Int Clip
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: IntegerProperty
+--- !u!114 &-2538434052741270010
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda222e2fd2ed6f4ba9c53797ad533a5, type: 3}
+  m_Name: Material Float Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -6034989131167207647}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 3866831970770290167}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -2538434052741270010}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Material (Float)
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: _Smoothness
+--- !u!114 &-1959469516094142339
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb6668133192ec4abcf9683c5d5b628, type: 3}
+  m_Name: Vector2Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 1
+    useRelative: 1
+    startAt: {x: 0, y: 0}
+    endAt: {x: 20, y: 20}
+    clipExtrapolation: 1
+    xEnabled: 1
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 1
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &-1689388192090083993
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab203771bc560da40850ccbf8d13b440, type: 3}
+  m_Name: ColorClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    startAt: {r: 0, g: 0, b: 0, a: 1}
+    endAt: {r: 1, g: 1, b: 1, a: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &-1566952586600187476
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a22280032bcdb4689e0936ec301748, type: 3}
+  m_Name: SpriteClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    sprites:
+    - {fileID: 21300000, guid: 17c959511015fe849a2a9ddd6c1749bd, type: 3}
+    - {fileID: 21300000, guid: 61ce89b72d152b5409cfccde1eb4527e, type: 3}
+    - {fileID: 21300000, guid: bc0e82c9345c520418e3fb193e5fd205, type: 3}
+    - {fileID: 21300000, guid: 9d8e21a233dc7ad4f973ca73c1091ad4, type: 3}
+    - {fileID: 21300000, guid: 022e6a2047f5caf489e150615e02dc9b, type: 3}
+    - {fileID: 21300000, guid: 5abc0606ad1c8f24d8ffd60a53fc30ae, type: 3}
+    - {fileID: 21300000, guid: 7579d5a4afa08bf43aa84492e55d042c, type: 3}
+    - {fileID: 21300000, guid: d45477b6fc5ff3f45b93b8fc96773936, type: 3}
+    - {fileID: 21300000, guid: 413049867d279604998a309267650ca0, type: 3}
+    - {fileID: 21300000, guid: 06455112654aa124dbada482bf2026d7, type: 3}
+    - {fileID: 21300000, guid: d331d95abf8b5584fa8c0d6c8ad689a0, type: 3}
+    - {fileID: 21300000, guid: 612a496b9e404ac41913077301b88579, type: 3}
+    - {fileID: 21300000, guid: 734b5953dc45e2444a868b49fc90c1ec, type: 3}
+    - {fileID: 21300000, guid: 2d55bf82bdeab364187c4ea873660cbb, type: 3}
+    - {fileID: 21300000, guid: b07719866c273f94da1b45f14f789f73, type: 3}
+    - {fileID: 21300000, guid: f7f69925c8f50ab418d855c3daa7bb2a, type: 3}
+    - {fileID: 21300000, guid: dd69b12fd4019d940b536c7f4723dc7f, type: 3}
+    - {fileID: 21300000, guid: 6e9603e2238609c41b4d5a6d5c600ecd, type: 3}
+    - {fileID: 21300000, guid: 2369059c54b931a40b23f988170d8e67, type: 3}
+    - {fileID: 21300000, guid: 67e74042ed5a5004c9be616949d5a4ad, type: 3}
+    - {fileID: 21300000, guid: e692942444ebeab468720c5ecd0b28ad, type: 3}
+    - {fileID: 21300000, guid: eb4d2d96afac83d47a7d97580556e795, type: 3}
+    - {fileID: 21300000, guid: 57d0f9339e5150e42abf6738efff9688, type: 3}
+    - {fileID: 21300000, guid: 16397af9986742049ac4de2ef5e01f4c, type: 3}
+    - {fileID: 21300000, guid: 9a92440a1dfce2b48982268dc727f0be, type: 3}
+    - {fileID: 21300000, guid: 5d5e598c7de0b5241ab5e0b5ef6693e5, type: 3}
+    - {fileID: 21300000, guid: ae9ddc0f23dba01449b19c2b9e1f9e0e, type: 3}
+    - {fileID: 21300000, guid: dab74b6d106002549b6e10dc416b1eb7, type: 3}
+    - {fileID: 21300000, guid: c4337c1fc0664454dae5918a6d550e56, type: 3}
+    - {fileID: 21300000, guid: b64bed6e2cada1e4fad029955ebf08eb, type: 3}
+    - {fileID: 21300000, guid: 28132766d7de4174791a6ade1ec52da9, type: 3}
+    - {fileID: 21300000, guid: 6cbe245e21f71ce4b91b4a9c1a94402a, type: 3}
+    - {fileID: 21300000, guid: 8eee82882a82d4445a773b98a0fb6075, type: 3}
+    - {fileID: 21300000, guid: e82156f11f402914b815ec4255502621, type: 3}
+    - {fileID: 21300000, guid: b3443cc179ad55145b8a449ede894921, type: 3}
+    - {fileID: 21300000, guid: ef9ef67f39b7a024b9ca6a9c49409d64, type: 3}
+    - {fileID: 21300000, guid: edf3e791774a57540b80aa920e37449e, type: 3}
+    - {fileID: 21300000, guid: 0855a9413ed941249a123144bc309b88, type: 3}
+    - {fileID: 21300000, guid: f0ce5f33c40943a4ca8456e2dc0d2efe, type: 3}
+    - {fileID: 21300000, guid: 022c081deccb5944b81708e334e40770, type: 3}
+    - {fileID: 21300000, guid: 2c8ee96e19c14c5408a76fa1d6f5c9b1, type: 3}
+    - {fileID: 21300000, guid: f759e5cfe3d2994408b75fea497fff27, type: 3}
+    - {fileID: 21300000, guid: 9fbac0c5490708a4eb112d31fda1de34, type: 3}
+    - {fileID: 21300000, guid: 5876fb26b584ae941ad0b2c21e399843, type: 3}
+    - {fileID: 21300000, guid: 46af523bf00f063439e53128814421db, type: 3}
+    - {fileID: 21300000, guid: 7d9b0a1441f72204d9a2c3cb9a8ba860, type: 3}
+    - {fileID: 21300000, guid: ba9ef01f4bb5cd9409b39ffb913e18ee, type: 3}
+    - {fileID: 21300000, guid: feea56344b1680848b3208544d605c1d, type: 3}
+    - {fileID: 21300000, guid: 6f58d86a3987d2d499b65544a3e4e9fb, type: 3}
+    - {fileID: 21300000, guid: 5ed66e5fcc05369459779d5c9501ced1, type: 3}
+    - {fileID: 21300000, guid: eb71cb29100748149a4f8da0f6178036, type: 3}
+    - {fileID: 21300000, guid: a0d737317bc405941b92eac628086e10, type: 3}
+    - {fileID: 21300000, guid: 83a812a2ae91591429d08fa8a3cbda08, type: 3}
+    - {fileID: 21300000, guid: 77d48d5fe72d20c4190b08e13dbad125, type: 3}
+    - {fileID: 21300000, guid: d2aceaea1e1dd2046b19eacb8ea2b557, type: 3}
+    - {fileID: 21300000, guid: b70025fdac218644c9e2b9fed3d7783d, type: 3}
+    - {fileID: 21300000, guid: 3af369bc3fc051e429c898e6b26645d3, type: 3}
+    - {fileID: 21300000, guid: 2dd1d938ba5051d44ac006839cf8837f, type: 3}
+    - {fileID: 21300000, guid: 97ee89f08debecc4bbd345b7da4cdd84, type: 3}
+    - {fileID: 21300000, guid: 141f23fd47811d84e8e39b32c111896e, type: 3}
+    - {fileID: 21300000, guid: 0193ec6e68ca292408815b82c4b4acd1, type: 3}
+    - {fileID: 21300000, guid: 29173a7678c74f441a3b5403d9ea598a, type: 3}
+    - {fileID: 21300000, guid: 31b82a0f6f9535247bc4b251230b50ec, type: 3}
+    - {fileID: 21300000, guid: a3896a691c8217a4287907c146a37caa, type: 3}
+    - {fileID: 21300000, guid: fdaa5f30de6db7447aa2afff5b7e283a, type: 3}
+    - {fileID: 21300000, guid: 0a077ec3964227348b0e30ab76b1d08e, type: 3}
+    - {fileID: 21300000, guid: d65f0e2449cd78d4590ac19fe1a29b8e, type: 3}
+    - {fileID: 21300000, guid: 35720445c08e4c6488f5db794ba40e5d, type: 3}
+    - {fileID: 21300000, guid: 0856aff01634ef14a9ea31fa83fcefd2, type: 3}
+    - {fileID: 21300000, guid: de1d2a0ca3e3059468898ea6e8abcf6b, type: 3}
+    - {fileID: 21300000, guid: b0cbf3141218c494abde6b8f16d49de2, type: 3}
+    - {fileID: 21300000, guid: 055faa92788f6014ebc224f2eddfffa7, type: 3}
+    - {fileID: 21300000, guid: 48a7b949f4cfbfe47a03b5e9321ad733, type: 3}
+    - {fileID: 21300000, guid: 88cb4401c373cb543a99c1bfb1c525ba, type: 3}
+    - {fileID: 21300000, guid: bff5288fde9193847adad6311114031f, type: 3}
+    - {fileID: 21300000, guid: 321ada8bdd7840445b774ef0ab6a2efc, type: 3}
+    - {fileID: 21300000, guid: dbe114782c5a0d54980995de6ffccb54, type: 3}
+    - {fileID: 21300000, guid: 2d6bf2b696a8ff74dbf86c29ce9427f6, type: 3}
+    - {fileID: 21300000, guid: 26fe42ee375f11443b919fb63cc6ec34, type: 3}
+    - {fileID: 21300000, guid: cc583dac99d16564c8994f64a2249618, type: 3}
+    - {fileID: 21300000, guid: 4adff00990338e344bfe419e7265245d, type: 3}
+    - {fileID: 21300000, guid: ce4834b600875054e8cfd5ece9e92e5e, type: 3}
+    - {fileID: 21300000, guid: 54fcb706e397c1d479f9a573aba73a25, type: 3}
+    clipExtrapolation: 1
+--- !u!114 &-1405179912589936130
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e53d177bee2878e4fb9100e168c7583e, type: 3}
+  m_Name: Color Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 753107185783196737}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 8078440541321351137}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -1405179912589936130}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Color Clip
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: ColorProperty
+--- !u!114 &-1247266933009639039
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eb49251a12904e4a996a22c81e2e658, type: 3}
+  m_Name: Float Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 753107185783196737}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -3952750828510822642}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -1247266933009639039}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Float Clip
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: SingleProperty
+--- !u!114 &-872372174444646685
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f575eef06c2fe3458dbe8cb9b698fe8, type: 3}
+  m_Name: Rotate Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 8830280611631471228}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -872372174444646685}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Rotate
+  m_Markers:
+    m_Objects: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+  m_Name: Timeline_Example
+  m_EditorClassIdentifier: 
+  m_Version: 0
+  m_Tracks:
+  - {fileID: -4523098010478966285}
+  - {fileID: 753107185783196737}
+  - {fileID: -6034989131167207647}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 0}
+--- !u!114 &370290335094181740
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f6f706e8720cd844a452738c5254caa, type: 3}
+  m_Name: Vector4Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 0
+    useRelative: 0
+    startAt: {x: 0, y: 0, z: 0, w: 0}
+    endAt: {x: 0, y: 0, z: 0, w: 0}
+    clipExtrapolation: 1
+    xEnabled: 0
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 0
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 0
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    wEnabled: 0
+    curveW:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &753107185783196737
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fc6f5187a81dc47999eefade6f0935, type: 3}
+  m_Name: Custom (Typed)
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children:
+  - {fileID: -2696337261931579548}
+  - {fileID: -1247266933009639039}
+  - {fileID: 846170740088982438}
+  - {fileID: 8221923123461904444}
+  - {fileID: 6424026331690020588}
+  - {fileID: -1405179912589936130}
+  - {fileID: -2735055969249374320}
+  m_Clips: []
+  m_Markers:
+    m_Objects: []
+--- !u!114 &846170740088982438
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd94bb69888b5cf428b2188509b6bfa3, type: 3}
+  m_Name: Two Axis Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 753107185783196737}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 1536597814997956594}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 846170740088982438}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Two Axis Clip
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: Vector2Property
+--- !u!114 &922696572001213450
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3cef574a987c1444b52d42d702744ce, type: 3}
+  m_Name: Material Color Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -6034989131167207647}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -1689388192090083993}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 922696572001213450}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Material (Color)
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: _BaseColor
+--- !u!114 &1480183894578804262
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36841ef2e54f62743950381416ce3510, type: 3}
+  m_Name: ThreeAxisClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 0
+    useRelative: 0
+    startAt: {x: 0, y: 0, z: 0}
+    endAt: {x: 500, y: 500, z: 500}
+    clipExtrapolation: 1
+    xEnabled: 1
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 1
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2
+        outSlope: 2
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 1
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.249687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.499374
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.74906105
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &1536597814997956594
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb6668133192ec4abcf9683c5d5b628, type: 3}
+  m_Name: TwoAxisClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 0
+    useRelative: 0
+    startAt: {x: 0, y: 0}
+    endAt: {x: 50, y: 50}
+    clipExtrapolation: 1
+    xEnabled: 1
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 1
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1
+        outSlope: 1
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 1
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &1863570308238658158
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d581e2593a6be0546b869dc92ce36785, type: 3}
+  m_Name: Move Control Track (1)
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 7636799240281573546}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 1863570308238658158}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Move
+  m_Markers:
+    m_Objects: []
+--- !u!114 &1973900063895334117
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5ed27d65b451d4a82748695ce18280, type: 3}
+  m_Name: IntClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    startAt: 0
+    endAt: 500
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1
+        outSlope: 1
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 1
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &2645366866472462724
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6781287c97191c4c96ff7fb0821ddc5, type: 3}
+  m_Name: Canvas Group Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 8472567386774588530}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 2645366866472462724}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Canvas Group (Alpha)
+  m_Markers:
+    m_Objects: []
+--- !u!114 &3550814314724332548
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36841ef2e54f62743950381416ce3510, type: 3}
+  m_Name: Vector3Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 1
+    useRelative: 1
+    startAt: {x: 0, y: 0, z: 0}
+    endAt: {x: 0, y: 0, z: 5}
+    clipExtrapolation: 1
+    xEnabled: 0
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 0
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 1
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &3866831970770290167
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3854a40b77d27de44a422117a990604a, type: 3}
+  m_Name: FloatClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    startAt: 1
+    endAt: 0
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &3885408301915771522
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b784d57817476364aa9e704a67e97f5c, type: 3}
+  m_Name: Image Color Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -6523106301994637614}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 3885408301915771522}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Image (Color)
+  m_Markers:
+    m_Objects: []
+--- !u!114 &5105682376933033067
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a22280032bcdb4689e0936ec301748, type: 3}
+  m_Name: SpriteClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    sprites:
+    - {fileID: 21300000, guid: 17c959511015fe849a2a9ddd6c1749bd, type: 3}
+    - {fileID: 21300000, guid: 61ce89b72d152b5409cfccde1eb4527e, type: 3}
+    - {fileID: 21300000, guid: bc0e82c9345c520418e3fb193e5fd205, type: 3}
+    - {fileID: 21300000, guid: 9d8e21a233dc7ad4f973ca73c1091ad4, type: 3}
+    - {fileID: 21300000, guid: 022e6a2047f5caf489e150615e02dc9b, type: 3}
+    - {fileID: 21300000, guid: 5abc0606ad1c8f24d8ffd60a53fc30ae, type: 3}
+    - {fileID: 21300000, guid: 7579d5a4afa08bf43aa84492e55d042c, type: 3}
+    - {fileID: 21300000, guid: d45477b6fc5ff3f45b93b8fc96773936, type: 3}
+    - {fileID: 21300000, guid: 413049867d279604998a309267650ca0, type: 3}
+    - {fileID: 21300000, guid: 06455112654aa124dbada482bf2026d7, type: 3}
+    - {fileID: 21300000, guid: d331d95abf8b5584fa8c0d6c8ad689a0, type: 3}
+    - {fileID: 21300000, guid: 612a496b9e404ac41913077301b88579, type: 3}
+    - {fileID: 21300000, guid: 734b5953dc45e2444a868b49fc90c1ec, type: 3}
+    - {fileID: 21300000, guid: 2d55bf82bdeab364187c4ea873660cbb, type: 3}
+    - {fileID: 21300000, guid: b07719866c273f94da1b45f14f789f73, type: 3}
+    - {fileID: 21300000, guid: f7f69925c8f50ab418d855c3daa7bb2a, type: 3}
+    - {fileID: 21300000, guid: dd69b12fd4019d940b536c7f4723dc7f, type: 3}
+    - {fileID: 21300000, guid: 6e9603e2238609c41b4d5a6d5c600ecd, type: 3}
+    - {fileID: 21300000, guid: 2369059c54b931a40b23f988170d8e67, type: 3}
+    - {fileID: 21300000, guid: 67e74042ed5a5004c9be616949d5a4ad, type: 3}
+    - {fileID: 21300000, guid: e692942444ebeab468720c5ecd0b28ad, type: 3}
+    - {fileID: 21300000, guid: eb4d2d96afac83d47a7d97580556e795, type: 3}
+    - {fileID: 21300000, guid: 57d0f9339e5150e42abf6738efff9688, type: 3}
+    - {fileID: 21300000, guid: 16397af9986742049ac4de2ef5e01f4c, type: 3}
+    - {fileID: 21300000, guid: 9a92440a1dfce2b48982268dc727f0be, type: 3}
+    - {fileID: 21300000, guid: 5d5e598c7de0b5241ab5e0b5ef6693e5, type: 3}
+    - {fileID: 21300000, guid: ae9ddc0f23dba01449b19c2b9e1f9e0e, type: 3}
+    - {fileID: 21300000, guid: dab74b6d106002549b6e10dc416b1eb7, type: 3}
+    - {fileID: 21300000, guid: c4337c1fc0664454dae5918a6d550e56, type: 3}
+    - {fileID: 21300000, guid: b64bed6e2cada1e4fad029955ebf08eb, type: 3}
+    - {fileID: 21300000, guid: 28132766d7de4174791a6ade1ec52da9, type: 3}
+    - {fileID: 21300000, guid: 6cbe245e21f71ce4b91b4a9c1a94402a, type: 3}
+    - {fileID: 21300000, guid: 8eee82882a82d4445a773b98a0fb6075, type: 3}
+    - {fileID: 21300000, guid: e82156f11f402914b815ec4255502621, type: 3}
+    - {fileID: 21300000, guid: b3443cc179ad55145b8a449ede894921, type: 3}
+    - {fileID: 21300000, guid: ef9ef67f39b7a024b9ca6a9c49409d64, type: 3}
+    - {fileID: 21300000, guid: edf3e791774a57540b80aa920e37449e, type: 3}
+    - {fileID: 21300000, guid: 0855a9413ed941249a123144bc309b88, type: 3}
+    - {fileID: 21300000, guid: f0ce5f33c40943a4ca8456e2dc0d2efe, type: 3}
+    - {fileID: 21300000, guid: 022c081deccb5944b81708e334e40770, type: 3}
+    - {fileID: 21300000, guid: 2c8ee96e19c14c5408a76fa1d6f5c9b1, type: 3}
+    - {fileID: 21300000, guid: f759e5cfe3d2994408b75fea497fff27, type: 3}
+    - {fileID: 21300000, guid: 9fbac0c5490708a4eb112d31fda1de34, type: 3}
+    - {fileID: 21300000, guid: 5876fb26b584ae941ad0b2c21e399843, type: 3}
+    - {fileID: 21300000, guid: 46af523bf00f063439e53128814421db, type: 3}
+    - {fileID: 21300000, guid: 7d9b0a1441f72204d9a2c3cb9a8ba860, type: 3}
+    - {fileID: 21300000, guid: ba9ef01f4bb5cd9409b39ffb913e18ee, type: 3}
+    - {fileID: 21300000, guid: feea56344b1680848b3208544d605c1d, type: 3}
+    - {fileID: 21300000, guid: 6f58d86a3987d2d499b65544a3e4e9fb, type: 3}
+    - {fileID: 21300000, guid: 5ed66e5fcc05369459779d5c9501ced1, type: 3}
+    - {fileID: 21300000, guid: eb71cb29100748149a4f8da0f6178036, type: 3}
+    - {fileID: 21300000, guid: a0d737317bc405941b92eac628086e10, type: 3}
+    - {fileID: 21300000, guid: 83a812a2ae91591429d08fa8a3cbda08, type: 3}
+    - {fileID: 21300000, guid: 77d48d5fe72d20c4190b08e13dbad125, type: 3}
+    - {fileID: 21300000, guid: d2aceaea1e1dd2046b19eacb8ea2b557, type: 3}
+    - {fileID: 21300000, guid: b70025fdac218644c9e2b9fed3d7783d, type: 3}
+    - {fileID: 21300000, guid: 3af369bc3fc051e429c898e6b26645d3, type: 3}
+    - {fileID: 21300000, guid: 2dd1d938ba5051d44ac006839cf8837f, type: 3}
+    - {fileID: 21300000, guid: 97ee89f08debecc4bbd345b7da4cdd84, type: 3}
+    - {fileID: 21300000, guid: 141f23fd47811d84e8e39b32c111896e, type: 3}
+    - {fileID: 21300000, guid: 0193ec6e68ca292408815b82c4b4acd1, type: 3}
+    - {fileID: 21300000, guid: 29173a7678c74f441a3b5403d9ea598a, type: 3}
+    - {fileID: 21300000, guid: 31b82a0f6f9535247bc4b251230b50ec, type: 3}
+    - {fileID: 21300000, guid: a3896a691c8217a4287907c146a37caa, type: 3}
+    - {fileID: 21300000, guid: fdaa5f30de6db7447aa2afff5b7e283a, type: 3}
+    - {fileID: 21300000, guid: 0a077ec3964227348b0e30ab76b1d08e, type: 3}
+    - {fileID: 21300000, guid: d65f0e2449cd78d4590ac19fe1a29b8e, type: 3}
+    - {fileID: 21300000, guid: 35720445c08e4c6488f5db794ba40e5d, type: 3}
+    - {fileID: 21300000, guid: 0856aff01634ef14a9ea31fa83fcefd2, type: 3}
+    - {fileID: 21300000, guid: de1d2a0ca3e3059468898ea6e8abcf6b, type: 3}
+    - {fileID: 21300000, guid: b0cbf3141218c494abde6b8f16d49de2, type: 3}
+    - {fileID: 21300000, guid: 055faa92788f6014ebc224f2eddfffa7, type: 3}
+    - {fileID: 21300000, guid: 48a7b949f4cfbfe47a03b5e9321ad733, type: 3}
+    - {fileID: 21300000, guid: 88cb4401c373cb543a99c1bfb1c525ba, type: 3}
+    - {fileID: 21300000, guid: bff5288fde9193847adad6311114031f, type: 3}
+    - {fileID: 21300000, guid: 321ada8bdd7840445b774ef0ab6a2efc, type: 3}
+    - {fileID: 21300000, guid: dbe114782c5a0d54980995de6ffccb54, type: 3}
+    - {fileID: 21300000, guid: 2d6bf2b696a8ff74dbf86c29ce9427f6, type: 3}
+    - {fileID: 21300000, guid: 26fe42ee375f11443b919fb63cc6ec34, type: 3}
+    - {fileID: 21300000, guid: cc583dac99d16564c8994f64a2249618, type: 3}
+    - {fileID: 21300000, guid: 4adff00990338e344bfe419e7265245d, type: 3}
+    - {fileID: 21300000, guid: ce4834b600875054e8cfd5ece9e92e5e, type: 3}
+    - {fileID: 21300000, guid: 54fcb706e397c1d479f9a573aba73a25, type: 3}
+    clipExtrapolation: 1
+--- !u!114 &5774849239875580158
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36841ef2e54f62743950381416ce3510, type: 3}
+  m_Name: Vector3Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 0
+    useRelative: 0
+    startAt: {x: 0, y: 0, z: 0}
+    endAt: {x: 200, y: 200, z: 200}
+    clipExtrapolation: 1
+    xEnabled: 1
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 1
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 1
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &6424026331690020588
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43316a9d79c6999419c28f3a0c7b62e5, type: 3}
+  m_Name: Vector 4 Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 753107185783196737}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 7928604968124772630}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 6424026331690020588}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Vector4 Clip
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: Vector4Property
+--- !u!114 &6436724504972835589
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d155c90f0d5f28d40b1531658f81de47, type: 3}
+  m_Name: Material Vector Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -6034989131167207647}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 370290335094181740}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 6436724504972835589}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Material (Vector)
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: 
+--- !u!114 &6660988838264399813
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c481a59f5d0514b49b534b55f5bf1441, type: 3}
+  m_Name: Image Sequence Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -5381396002918417074}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 6660988838264399813}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Image (Sequence)
+  m_Markers:
+    m_Objects: []
+--- !u!114 &7636799240281573546
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36841ef2e54f62743950381416ce3510, type: 3}
+  m_Name: Vector3Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 1
+    useWorldSpace: 0
+    relativeUnlocked: 1
+    useRelative: 0
+    startAt: {x: -2.5, y: 0, z: 0}
+    endAt: {x: 2.5, y: 0, z: 0}
+    clipExtrapolation: 1
+    xEnabled: 1
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 0
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 0
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &7928604968124772630
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f6f706e8720cd844a452738c5254caa, type: 3}
+  m_Name: Vector4Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 0
+    useWorldSpace: 0
+    relativeUnlocked: 0
+    useRelative: 0
+    startAt: {x: 0, y: 0, z: 0, w: 0}
+    endAt: {x: 5, y: 20, z: 99, w: 100}
+    clipExtrapolation: 1
+    xEnabled: 1
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.0015205011
+        outSlope: -0.0015205011
+        tangentMode: 0
+        weightedMode: 2
+        inWeight: 0
+        outWeight: 0.80192786
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0.010103481
+        outSlope: 0.010103481
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.095544636
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 1
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 2
+        outSlope: 2
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 1
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    wEnabled: 1
+    curveW:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.249687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.499374
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.74906105
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+--- !u!114 &8078440541321351137
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab203771bc560da40850ccbf8d13b440, type: 3}
+  m_Name: ColorClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    startAt: {r: 3.9999998, g: 0.12267705, b: 0, a: 1}
+    endAt: {r: 2, g: 1.6422633, b: 0, a: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.249687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.499374
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.74906105
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &8221923123461904444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ee503cdbfab004ba46c39d53e79d94, type: 3}
+  m_Name: Vector 3 Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 753107185783196737}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 5774849239875580158}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 8221923123461904444}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Vector3 Clip
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: Vector3Property
+--- !u!114 &8472567386774588530
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3854a40b77d27de44a422117a990604a, type: 3}
+  m_Name: FloatClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    startAt: 1
+    endAt: 0.9
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.249687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.499374
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.74906105
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &8572277687181469708
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3854a40b77d27de44a422117a990604a, type: 3}
+  m_Name: FloatClip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 0
+    startAt: 0
+    endAt: 1
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2
+        outSlope: 2
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    clipExtrapolation: 1
+--- !u!114 &8785956871263113053
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eed64f1b3c6f5ef4981091b7d64db057, type: 3}
+  m_Name: Material Texture Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -6034989131167207647}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -1566952586600187476}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 8785956871263113053}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Material (Texture)
+  m_Markers:
+    m_Objects: []
+  m_ParameterName: _BaseMap
+--- !u!114 &8811474035784178459
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ff3983e1ab59a7478a3ea2081c93619, type: 3}
+  m_Name: Move Rect Control Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: -4523098010478966285}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -3737762689852102001}
+    m_Duration: 5
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 8811474035784178459}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Move (Rect)
+  m_Markers:
+    m_Objects: []
+--- !u!114 &8830280611631471228
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36841ef2e54f62743950381416ce3510, type: 3}
+  m_Name: Vector3Clip
+  m_EditorClassIdentifier: 
+  values:
+    start: 0
+    end: 5
+    spaceUnlocked: 1
+    useWorldSpace: 0
+    relativeUnlocked: 1
+    useRelative: 0
+    startAt: {x: 0, y: 0, z: 0}
+    endAt: {x: 0, y: 360, z: 0}
+    clipExtrapolation: 1
+    xEnabled: 0
+    curveX:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    yEnabled: 1
+    curveY:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    zEnabled: 0
+    curveZ:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4

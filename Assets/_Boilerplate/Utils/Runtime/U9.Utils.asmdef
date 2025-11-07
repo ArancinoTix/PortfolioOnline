@@ -1,0 +1,19 @@
+{
+    "name": "U9.Utils",
+    "rootNamespace": "U9.Utils",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:ac4806c44c9f7cb409a66fa2c0e5d278",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:0283b559082917749be9f73f97f782a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

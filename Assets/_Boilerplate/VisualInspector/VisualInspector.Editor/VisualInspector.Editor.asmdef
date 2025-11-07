@@ -1,0 +1,20 @@
+{
+    "name": "VisualInspector.Editor",
+    "rootNamespace": "VisualInspector.Editor",
+    "references": [
+        "GUID:ac4806c44c9f7cb409a66fa2c0e5d278"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

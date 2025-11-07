@@ -1,0 +1,20 @@
+{
+    "name": "U9.SaveDataManagement",
+    "rootNamespace": "U9.SaveDataManagement",
+    "references": [
+        "GUID:1edea1618d37f204d961ea24c8dc34db",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:68b4aa6ce27e26c419e40f7fc3cdf2d8",
+        "GUID:1055ea9d929e30548bed951cd8d7675b",
+        "GUID:ac4806c44c9f7cb409a66fa2c0e5d278"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Unit9.AreaSlider",
+    "rootNamespace": "U9.AreaSlider",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

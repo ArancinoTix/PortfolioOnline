@@ -1,0 +1,18 @@
+{
+    "name": "U9.LocationHelper",
+    "rootNamespace": "U9.LocationHelper",
+    "references": [
+        "GUID:69bece1f3a588ba4293573da80128eb8",
+        "GUID:1edea1618d37f204d961ea24c8dc34db",
+        "GUID:ac4806c44c9f7cb409a66fa2c0e5d278"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

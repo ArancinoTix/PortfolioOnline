@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6758591c268f634d97dec128c925d3f, type: 3}
+  m_Name: ProfanityFilterESP
+  m_EditorClassIdentifier: 
+  m_pattern: "aborto|anal|ano|culo|follador de culo|culos|est\xFApido|bolsa de pelota|bolas|bastardo|campana|bestial|bestialidad|perra|perras|quejas|sangriento|mamada|bollok|teta|tetas|los
+    pechos|buceta|extremo|muncher alfombra|grieta|cipa|cl\xEDtoris|polla|chupar la
+    polla|gallos|mapache|mierda|semen|corrida|cunillingus|co\xF1o|maldita sea|consolador|consoladores|tonto|perro
+    follador|duche|dique|eyacular|eyaculado|eyacula|eyaculaci\xF3n|maric\xF3n|fagging|maricones|felching|felaci\xF3n|brida|follada|cabron|folladores|maldito|carajo|folla|fudge
+    packer|maldito sea|infierno|hore|c\xF3rneo|tir\xF3n|kock|labios vaginales|lujuria|masoquista|masturbarse|madre
+    folladora|nazi|negro|niggers|orgasimo|orgasmo|orgasmos|p\xE1jaro carpintero|pene|mear|molesto|pisser|orinando|enojado|pornograf\xEDa|porno|pinchazo|pinchazos|pube|co\xF1os|violaci\xF3n|violador|recto|retardar|rimming|s\xE1dico|atornillar|escroto|sexo|pelusa|follar|transexual|cagadas|cagado|cagando|de
+    mierda|skank|puta|putas|smegma|tiz\xF3n|arrebatar|hijo de puta|espacio|agallas|test\xEDculo|zurullo|vagina|viagra|vulva|wang|hacerse
+    una paja|x clasificado|xxx"
+  m_whiteList: 

@@ -1,0 +1,23 @@
+{
+    "name": "U9.Audio.UnityAudio.Editor",
+    "rootNamespace": "U9.Audio.UnityAudio.Editor",
+    "references": [
+        "GUID:b29ceb855a7dbf64882c1c8ba8886636",
+        "GUID:591a27cf763405644a080f8ea8b7b15b",
+        "GUID:508ab9a1e278c7a4fab13f1145cacf9b",
+        "GUID:09520a737e584e24aa83a0bfd4a6a3dc",
+        "GUID:1edea1618d37f204d961ea24c8dc34db",
+        "GUID:5caf6a5402e3bb543a3b66a993277470"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

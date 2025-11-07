@@ -1,0 +1,19 @@
+{
+    "name": "U9.Audio.Data",
+    "rootNamespace": "U9.Audio.Data",
+    "references": [
+        "GUID:ac4806c44c9f7cb409a66fa2c0e5d278",
+        "GUID:1edea1618d37f204d961ea24c8dc34db",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:3c48369df4ecc2d4792a217f12860c68"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

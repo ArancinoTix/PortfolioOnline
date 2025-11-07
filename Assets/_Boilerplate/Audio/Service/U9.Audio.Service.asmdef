@@ -1,0 +1,16 @@
+{
+    "name": "U9.Audio.Service",
+    "rootNamespace": "U9.Audio.Service",
+    "references": [
+        "GUID:591a27cf763405644a080f8ea8b7b15b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
