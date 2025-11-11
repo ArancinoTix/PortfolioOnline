@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7075944583030592394}
   - component: {fileID: 1520967181669856147}
+  - component: {fileID: 82866992657824561}
   m_Layer: 0
   m_Name: ShootingManager
   m_TagString: Untagged
@@ -165,5 +166,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2cdb7c8360cf2084ea8e9cea462fb3a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &82866992657824561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7433595525219706816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765499090155e114ebd13f7b92ab1df4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
