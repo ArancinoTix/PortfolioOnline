@@ -3,9 +3,10 @@ using U9.FSM;
 
 public class MainStateBehaviour : FSMBehaviour<GameState>
 {
-    public MainStateBehaviour(FSMState<GameState> owner) : base(owner)
+    private InputManager _inputManager;
+    public MainStateBehaviour(InputManager inputManager, FSMState<GameState> owner) : base(owner)
     {
-        
+        _inputManager = inputManager;
     }
 
     public override void OnEnter(FSMState<GameState> previousState)

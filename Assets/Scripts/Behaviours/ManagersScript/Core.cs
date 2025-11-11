@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class Core : MonoBehaviour
 {
+    [SerializeField] private InputManager _inputManager;
     private FSM<GameState> _fsm;
 
     private void Start()
@@ -16,7 +17,7 @@ public class Core : MonoBehaviour
         _fsm = new FSM<GameState>();
 
         var mainState = _fsm.AddState(GameState.MainState);
-        mainState.AddBehaviour(new MainStateBehaviour(mainState));
+        mainState.AddBehaviour(new MainStateBehaviour(_inputManager, mainState));
         mainState.AddTransition(GameState.WorkExperience);
         mainState.AddTransition(GameState.AboutMe);
 
