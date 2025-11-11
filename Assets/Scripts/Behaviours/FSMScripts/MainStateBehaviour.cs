@@ -4,14 +4,16 @@ using U9.FSM;
 public class MainStateBehaviour : FSMBehaviour<GameState>
 {
     private InputManager _inputManager;
-    public MainStateBehaviour(InputManager inputManager, FSMState<GameState> owner) : base(owner)
+    private ShootingManager _shootingManager;
+    public MainStateBehaviour(InputManager inputManager, ShootingManager shootingManager, FSMState<GameState> owner) : base(owner)
     {
         _inputManager = inputManager;
+        _shootingManager = shootingManager;
     }
 
     public override void OnEnter(FSMState<GameState> previousState)
     {
-
+        
     }
 
     public override void OnExit(FSMState<GameState> nextState)
