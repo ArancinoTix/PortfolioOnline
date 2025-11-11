@@ -10,6 +10,7 @@ public class Core : MonoBehaviour
     private void Start()
     {
         InitIaliseFSM();
+        _shootingManager.Init();
         _fsm.Start(GameState.MainState);
     }
 
@@ -27,8 +28,8 @@ public class Core : MonoBehaviour
         aboutMe.AddTransition(GameState.MainState);
 
         var experience = _fsm.AddState(GameState.WorkExperience);
-        aboutMe.AddBehaviour(new ExperiencesBehaviour(experience));
-        aboutMe.AddTransition(GameState.MainState);
+        experience.AddBehaviour(new ExperiencesBehaviour(experience));
+        experience.AddTransition(GameState.MainState);
     }
 
 }
