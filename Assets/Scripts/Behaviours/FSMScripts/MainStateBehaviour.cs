@@ -13,11 +13,16 @@ public class MainStateBehaviour : FSMBehaviour<GameState>
 
     public override void OnEnter(FSMState<GameState> previousState)
     {
-        
+        _inputManager.onPositionUpdate += Aim; 
     }
 
     public override void OnExit(FSMState<GameState> nextState)
     {
+        _inputManager.onPositionUpdate -= Aim;
+    }
 
+    private void Aim(Vector2 dir)
+    {
+        _shootingManager.Aim(dir);
     }
 }
