@@ -1,14 +1,15 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 public class InputManager : MonoBehaviour
 {
-    public Vector2 MousePosition { get; private set; }
+    public Action<Vector2> onPositionUpdate;
 
     void Update()
     {
         if (Mouse.current != null)
         {
-            MousePosition = Mouse.current.position.ReadValue();
+            onPositionUpdate?.Invoke(Mouse.current.position.ReadValue());
         }
     }
 }
